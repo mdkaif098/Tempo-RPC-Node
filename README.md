@@ -94,6 +94,8 @@ systemctl start tempo
 journalctl -u tempo -f
 ```
 
+---
+
 ## Usefull Commands 👇
 
 ### Stop node
@@ -109,5 +111,8 @@ systemctl restart tempo
 journalctl -u tempo -n 50
 ```
 
+---
+
 ## For Support or Query
-- 💬 **Contact**: [Md_Kaif](https://t.me/BeastMafia)
+- 💬 **Contact**: [Agen丅MAFIA](https://t.me/BeastMafia)
+- 🐦 **X (Twitter)**: [Md_Kaif](https://x.com/0xZenitsuWeb3)
